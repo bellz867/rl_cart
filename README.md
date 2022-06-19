@@ -4,8 +4,10 @@
 Implements popular policy gradient RL algorithms on cartpole using pytorch and gym
 
 ## Requires
-'pytorch'
-'gym'
+'''
+pytorch
+gym
+'''
 
 ## Sources
 - multiple environments code pulled from [spinning up](https://github.com/openai/spinningup.git)
